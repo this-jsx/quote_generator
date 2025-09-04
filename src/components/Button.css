@@ -1,0 +1,29 @@
+.btn {
+  margin-top: 1rem;
+  background: limegreen;
+  color: darkgreen;
+  font-weight: 800;
+  border: 0;
+  outline: none;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn__version {
+  width: 4rem;
+  background: #7435d9;
+  color: aliceblue;
+  font-weight: 700
+}
+
+.btn__clear {
+  background: crimson;
+  color: #fff;
+  font-weight: 500;
+}
+
+.list__item-text {
+  height: 100px;
+}
