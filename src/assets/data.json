@@ -2,7 +2,7 @@
     {
       "author": "Russel M. Nelson",
       "year": "October 2023",
-      "photo": "/src/assets/photos/RusselNelson.jpg",
+      "photo": "/quote_generator/src/assets/photos/RusselNelson.jpg",
       "langs": [
         {"content": "Ваш сегодняшний выбор определяет три вещи: где вы будете жить в вечности, в каком теле воскреснете, и с кем будете жить вечно." },
         {"content": "Your choices will determine where you will live throughout eternity, the kind of body with which you will be resurrected, and those with whom you will live forever."}
@@ -12,7 +12,7 @@
       {
         "author": "Jeffrey R. Holland",
         "year": "October 2020",
-        "photo": "/src/assets/photos/JeffreyHolland.jpg",
+        "photo": "/quote_generator/src/assets/photos/JeffreyHolland.jpg",
         "langs": [
         {"content": "Верить – значит доверяться Богу в хорошие времена и в плохие, даже если это включает немного страданий, пока мы не увидим явление Его руки нам на благо." },
         {"content": "Faith means trusting God in good times and bad, even if that includes some suffering until we see His arm revealed in our behalf."}
@@ -22,7 +22,7 @@
       {
         "author": "Dieter F. Uchtdorf",
         "year": "October 2023",
-        "photo": "/src/assets/photos/DieterUchtdorf.jpg",
+        "photo": "/quote_generator/src/assets/photos/DieterUchtdorf.jpg",
         "langs": [
         {"content": "Хотя ваш выбор, возможно, увел вас далеко от Спасителя и Его Церкви, Главный Целитель стоит на дороге, ведущей домой, и приветствует вас." },
         {"content": "Though choices may have taken you far from the Savior and His Church, the Master Healer stands at the road that leads home, welcoming you."}
@@ -32,7 +32,7 @@
       {
         "author": "Dieter F. Uchtdorf",
         "year": "October 2018",
-        "photo": "/src/assets/photos/DieterUchtdorf.jpg",
+        "photo": "/quote_generator/src/assets/photos/DieterUchtdorf.jpg",
         "langs": [
         {"content": "Прямо сейчас – и каждый день – Он протягивает к вам руку, желая исцелить вас, поднять вас и заместить пустоту в вашем сердце неизбывной радостью." },
         {"content": "This very day—every day—He reaches out to you, desiring to heal you, to lift you up, and to replace the emptiness in your heart with an abiding joy."}
@@ -42,7 +42,7 @@
     {
       "author": "K. Brett Nattress",
       "year": "April 2023",
-      "photo": "/src/assets/photos/BrettNattress.jpg",
+      "photo": "/quote_generator/src/assets/photos/BrettNattress.jpg",
       "langs": [
         {"content": "Кто отошел от пути заветов, пожалуйста, знайте, что всегда есть надежда, всегда есть исцеление и всегда есть путь назад." },
         {"content": "To those who have strayed from the covenant path, please know there is always hope, there is always healing, and there is always a way back."}
@@ -52,7 +52,7 @@
     {
       "author": "Neil L. Andersen",
       "year": "April 2024",
-      "photo": "/src/assets/photos/NeilAndersen.jpg",
+      "photo": "/quote_generator/src/assets/photos/NeilAndersen.jpg",
       "langs": [
         {"content": "Достойно и с молитвой входя в Его святой дом, вы будете вооружены Его силой."},
         {"content": "As you come worthily and prayerfully to His holy house, you will be armed with His power."}
@@ -62,7 +62,7 @@
     {
       "author": "Dale G. Renlund",
       "year": "October 2023",
-      "photo": "/src/assets/photos/DaleRenlund.webp",
+      "photo": "/quote_generator/src/assets/photos/DaleRenlund.webp",
       "langs": [
         {"content": "Наше духовное основание укрепляется, когда мы каемся, сознательно готовимся к причастию и достойно принимаем его." },
         {"content": "Our spiritual foundation is strengthened through repentance and by conscientiously preparing for and worthily partaking of the sacrament."}
@@ -72,7 +72,7 @@
     {
       "author": "Ronald A. Rasband",
       "year": "April 2021",
-      "photo": "/src/assets/photos/RonaldRasband.jpg",
+      "photo": "/quote_generator/src/assets/photos/RonaldRasband.jpg",
       "langs": [
         {"content": "И сегодня среди последователей Иисуса Христа происходит множество чудес и знамений – и в вашей жизни, и в моей." },
         {"content": "Miracles, signs, and wonders abound among followers of Jesus Christ today, in your lives and in mine."}
@@ -82,7 +82,7 @@
     {
       "author": "Gerrit W. Gong",
       "year": "April 2024",
-      "photo": "/src/assets/photos/GerritGong.jpg",
+      "photo": "/quote_generator/src/assets/photos/GerritGong.jpg",
       "langs": [
         {"content": "Во времени и в вечности цель Сотворения и природа Самого Бога заключаются в том, чтобы всё содействовало на наше благо." },
         {"content": "In time and eternity, the purpose of Creation and the nature of God Himself are to bring all things together for our good."}
@@ -92,7 +92,7 @@
     {
       "author": "Patrick Kearon",
       "year": "April 2025",
-      "photo": "/src/assets/photos/PatrickKearon.jpg",
+      "photo": "/quote_generator/src/assets/photos/PatrickKearon.jpg",
       "langs": [
         {"content": "Приглашаю вас принять, впервые или более полно, чем прежде, великолепную мысль о том, что вы – поистине возлюбленное дитя Бога." },
         {"content": "I invite you to receive, either for the first time or to a greater extent than ever before, the magnificent realisation that you truly are God’s beloved child."}
@@ -102,7 +102,7 @@
     {
       "author": "Dallin H. Oaks",
       "year": "October 2023",
-      "photo": "/src/assets/photos/DallinOaks.webp",
+      "photo": "/quote_generator/src/assets/photos/DallinOaks.webp",
       "langs": [
         {"content": "Благословения отношений, связанных запечатыванием, гарантированы всем, кто соблюдают свои заветы, но никогда – через навязывание таких отношений другому человеку, который недостоин или не желает того." },
         {"content": "The blessings of a sealed relationship are assured for all who keep their covenants but never by forcing a sealed relationship on another person who is unworthy or unwilling."}
@@ -112,7 +112,7 @@
     {
       "author": "Henry B. Eyring",
       "year": "April 2013",
-      "photo": "/src/assets/photos/HenryEyring.webp",
+      "photo": "/quote_generator/src/assets/photos/HenryEyring.webp",
       "langs": [
         {"content": "Когда мы преданно служим Ему, Он приближается к тем, кого мы так любим, – к членам наших семей." },
         {"content": "As we give devoted service to Him, He draws closer to those we love in our families."}
@@ -124,7 +124,7 @@
     {
       "author": "David A. Bednar",
       "year": "October 2013",
-      "photo": "/src/assets/photos/DavidBednar.webp",
+      "photo": "/quote_generator/src/assets/photos/DavidBednar.webp",
       "langs": [
         {"content": "Когда мы живем по закону десятины, в нашу жизнь приходят духовные и мирские благословения." },
         {"content": "Spiritual and temporal blessings come into our lives as we live the law of tithing."}
@@ -136,7 +136,7 @@
     {
       "author": "Quentin L. Cook",
       "year": "April 2018",
-      "photo": "/src/assets/photos/QuentinCook.webp",
+      "photo": "/quote_generator/src/assets/photos/QuentinCook.webp",
       "langs": [
         {"content": "Исполняя данные Богом обязанности и делая это в праведности, единстве и равенстве, мы готовимся ко встрече с Богом." },
         {"content": "Pursuing divinely appointed responsibilities in righteousness, unity, and equality will prepare us to meet God."}
@@ -147,7 +147,7 @@
         {
       "author": "D. Todd Christofferson",
       "year": "April 2022",
-      "photo": "/src/assets/photos/ToddChristofferson.webp",
+      "photo": "/quote_generator/src/assets/photos/ToddChristofferson.webp",
       "langs": [
         {"content": "Каким бы ни был опыт нашей земной жизни, мы можем довериться Богу и найти радость в Нем." },
         {"content": "No matter what our mortal experience may entail, we can trust God and find joy in Him."}
@@ -158,7 +158,7 @@
             {
       "author": "Gary E. Stevenson",
       "year": "October 2020",
-      "photo": "/src/assets/photos/GaryStevenson.webp",
+      "photo": "/quote_generator/src/assets/photos/GaryStevenson.webp",
       "langs": [
         {"content": "Времена страданий и разочарований не меняют характер Господа – Его заботливые очи продолжают смотреть на нас с благоволением и благословлять нас." },
         {"content": "Times of affliction and disappointment do not change the watchful eye of the Lord as He favorably looks upon us, blessing us."}
@@ -169,7 +169,7 @@
                 {
       "author": "Ulisses Soares",
       "year": "October 2024",
-      "photo": "/src/assets/photos/UlissesSoares.webp",
+      "photo": "/quote_generator/src/assets/photos/UlissesSoares.webp",
       "langs": [
         {"content": "Следуя воле Господа в своей жизни, мы сможем найти самую драгоценную жемчужину в мире – Царство Небесное." },
         {"content": "Following the Lord’s will in our life will enable us to find the most precious pearl in the world—the kingdom of heaven."}
